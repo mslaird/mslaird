@@ -2,7 +2,7 @@
 
 **AI Product and Solutions builder.** I take ambiguous problems and ship working AI products end to end, from the first customer conversation through to production. Self taught, founder tested, fast with modern AI tooling.
 
-Portfolio: https://markslaird.com/ &nbsp;|&nbsp; [LinkedIn](https://www.linkedin.com/in/markslaird/) &nbsp;|&nbsp; Dallas-Fort Worth, open to relocation
+Portfolio: [Portfolio Site](https://markslaird.com/) &nbsp;|&nbsp; [LinkedIn](https://www.linkedin.com/in/markslaird/) &nbsp;|&nbsp; Dallas-Fort Worth, open to relocation
 
 ---
 
