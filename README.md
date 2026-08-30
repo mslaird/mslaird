@@ -8,7 +8,7 @@ Portfolio: [Portfolio Site](https://markslaird.com/) &nbsp;|&nbsp; [LinkedIn](ht
 
 ### What I have built
 
-**[GradeForAI](https://github.com/mslaird/Grade-AI)** &nbsp;·&nbsp; Python scoring engine and data pipeline that graded **505,140 businesses** across **130+ industries** on whether AI agents can find, understand, and transact with them. Six engine versions, each calibrated against real results. Shipped a CLI, dashboard, automated refresh, and client-facing reports.
+**[GradeForAI](https://github.com/mslaird/gradeforai)** &nbsp;·&nbsp; Python scoring engine and data pipeline that graded **505,140 businesses** across **130+ industries** on whether AI agents can find, understand, and transact with them. Six engine versions, each calibrated against real results. Shipped a CLI, dashboard, automated refresh, and client-facing reports.
 
 **CloudAurum** &nbsp;·&nbsp; Diagnostic-led AI and workflow consulting practice. Map where a business leaks revenue, quantify the cost, then architect and build only what closes it: AI voice and SMS agents (Retell, Twilio, Make, Claude), reactivation campaigns, workflow automation, and systems consolidation.
 
