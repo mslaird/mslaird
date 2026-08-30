@@ -24,4 +24,4 @@ Portfolio: [Portfolio Site](https://markslaird.com/) &nbsp;|&nbsp; [LinkedIn](ht
 
 Solutions Engineer, Sales Engineer, and AI implementation roles where building, AI, and the customer meet.
 
-*SAG-AFTRA actor, so I build the product and can also stand in front of a room and explain it.*
+*SAG-AFTRA actor and the face of national campaigns, most recently Navy Federal Credit Union, so I build the product and can also stand in front of a room and explain it.*
