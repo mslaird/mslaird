@@ -1,6 +1,6 @@
 # Mark Laird
 
-**AI Product and Solutions builder.** I take ambiguous problems and ship working AI products end to end, from the first customer conversation through to production. Self taught, founder tested, fast with modern AI tooling.
+**AI Solutions Engineer.** I take ambiguous problems and ship working AI products end to end, from the first customer conversation through to production. Self taught, founder tested, fast with modern AI tooling.
 
 Portfolio: [Portfolio Site](https://markslaird.com/) &nbsp;|&nbsp; [LinkedIn](https://www.linkedin.com/in/markslaird/) &nbsp;|&nbsp; Dallas-Fort Worth, open to relocation
 
@@ -22,6 +22,6 @@ Portfolio: [Portfolio Site](https://markslaird.com/) &nbsp;|&nbsp; [LinkedIn](ht
 
 ### What I am looking for
 
-Solutions Engineer, AI Product Manager, and AI implementation roles where building, AI, and the customer meet.
+Solutions Engineer, Sales Engineer, and AI implementation roles where building, AI, and the customer meet.
 
 *Former SAG-AFTRA actor, so I build the product and can also stand in front of a room and explain it.*
