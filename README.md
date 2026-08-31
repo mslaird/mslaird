@@ -12,7 +12,7 @@ Portfolio: [Portfolio Site](https://markslaird.com/) &nbsp;|&nbsp; [LinkedIn](ht
 
 **CloudAurum** &nbsp;·&nbsp; Diagnostic-led AI and workflow consulting practice. Map where a business leaks revenue, quantify the cost, then architect and build only what closes it: AI voice and SMS agents (Retell, Twilio, Make, Claude), reactivation campaigns, workflow automation, and systems consolidation.
 
-**Ticker Buddy** &nbsp;·&nbsp; Multi-asset market intelligence platform defined to architecture spec: five layers from data ingestion to user ecosystem, an NLP sentiment and volatility modeling layer, a full Figma MVP, a 13 section whitepaper, and a secured trademark.
+**Ticker Buddy** &nbsp;·&nbsp; Multi-asset market intelligence platform defined to architecture spec: five layers from data ingestion to user ecosystem, an NLP sentiment and volatility modeling layer, a working React/TypeScript MVP plus a Manifest V3 browser extension, a full Figma design system, a 47-page 13-section whitepaper, and a trademark filed in three classes (later abandoned with the build).
 
 **[OptionPulse](https://github.com/mslaird/optionpulse-insight-hub)** &nbsp;·&nbsp; Predictive options analytics MVP (TypeScript, Supabase) with AI signal modeling. Shipped, validated with early users, then shut down when the data API economics did not support it.
 
