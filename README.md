@@ -18,8 +18,6 @@ Portfolio: [Portfolio Site](https://markslaird.com/) &nbsp;|&nbsp; [LinkedIn](ht
 
 **[Ticker Buddy](https://github.com/mslaird/Ticker-Buddy-MVP)** &nbsp;·&nbsp; Multi-asset market intelligence platform. **Built:** a React/TypeScript MVP on Supabase with a 1,122-line Deno edge function wrapping two unreliable upstreams, a Manifest V3 browser extension sharing the app's auth session, and a D3 market-cap heat map. **Designed, not built:** the NLP sentiment and volatility layer the whitepaper specifies, which needed roughly $12K/month in licensed market data. Also a 47-page whitepaper, a full Figma design system, and a trademark that cleared USPTO examination with no conflicting marks found, then lapsed when no Statement of Use was filed because nothing sold. Paused pending capital.
 
-**[OptionPulse](https://github.com/mslaird/optionpulse-insight-hub)** &nbsp;·&nbsp; Options analytics prototype (TypeScript, Supabase): a thirteen-screen product surface and an Alpha Vantage options-chain service behind a staleness-aware cache and a ticker allowlist. Put in front of early users, then stopped over data licensing and the regulatory exposure of publishing predictive signals on securities. The alerts and the auth were mock and the repo says so — there is no model in it.
-
 ### Stack
 
 - **Voice and agents** &nbsp;·&nbsp; `Retell` `Twilio` `Make` `Claude` · agent and prompt design · deterministic evals
